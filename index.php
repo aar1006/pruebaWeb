@@ -1,8 +1,8 @@
 <?php
 
-echo ("<h1> HOLA MUNDO </h1>");
+echo ("<h1 style=´color:red´;> HOLA MUNDO </h1>");
 
-echo ("<h2> UTN-FRA </h2>");
+echo ("<h2style=´color:orange;´> UTN-FRA </h2>");
 
 ?>
 
